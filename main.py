@@ -100,7 +100,10 @@ $$ |  $$ |$$ |  $$ |/ $$   |
 $$/   $$/ $$/   $$/ $$$$$$/ 
                             
                             
-                            
+ Jangan lupa untuk subscribe channel 
+      - All About the Internet -
+ Telegram : https://t.me/allabout_internet
+ Youtube  : @youtube-AAI
                             
                             
 
