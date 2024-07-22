@@ -37,7 +37,7 @@ Script untuk mengenkripsi file Python menjadi bytecode dan menamai output file s
 Cara penggunaan:
 1. Jalankan skrip ini.
 2. Masukkan nama file Python yang ingin Anda enkripsi (contoh.py).
-3. Masukkan nama file output yang diinginkan tanpa ekstensi (contoh).
+3. Masukkan nama file output yang diinginkan wajib pakai ekstensi (contoh).
 4. File bytecode akan disimpan dengan nama sesuai input pengguna.
 
 Contoh penggunaan:
